@@ -37,10 +37,10 @@ services:
       RUN: "true"
 ```
 
-[docker]: https://hub.docker.com/r/joshava/mysql-s3
-[docker_pull]: https://img.shields.io/docker/pulls/joshava/mysql-s3.svg
-[docker_star]: https://img.shields.io/docker/stars/joshava/mysql-s3.svg
-[docker_size]: https://img.shields.io/microbadger/image-size/joshava/mysql-s3.svg
-[docker_layer]: https://img.shields.io/microbadger/layers/joshava/mysql-s3.svg
-[license]: https://github.com/joshava/mysql-s3/blob/master/LICENSE
-[license_md]: https://img.shields.io/github/license/joshava/mysql-s3.svg
+[docker]: https://hub.docker.com/r/joshava/postgres-s3
+[docker_pull]: https://img.shields.io/docker/pulls/joshava/postgres-s3.svg
+[docker_star]: https://img.shields.io/docker/stars/joshava/postgres-s3.svg
+[docker_size]: https://img.shields.io/microbadger/image-size/joshava/postgres-s3.svg
+[docker_layer]: https://img.shields.io/microbadger/layers/joshava/postgres-s3.svg
+[license]: https://github.com/joshava/postgres-s3/blob/master/LICENSE
+[license_md]: https://img.shields.io/github/license/joshava/postgres-s3.svg
